@@ -1,0 +1,11 @@
+.arrows{
+    position:fixed;
+    width: 10%;
+    margin-top: calc(50vh - 80px);
+}
+.left{
+    left: 0;
+}
+.right{
+    right: 0;
+}

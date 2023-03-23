@@ -1,7 +1,9 @@
 .arrows{
     position:fixed;
-    width: 10%;
-    margin-top: calc(50vh - 80px);
+    width: 7.5%;
+    margin-top: calc(50vh - 14px);
+    margin-right: 1em;
+    margin-left: 1em;
 }
 .left{
     left: 0;
